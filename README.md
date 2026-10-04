@@ -12,6 +12,41 @@ This analysis focuses on:
 •	payment preferences and installment usage
 The final outcome is a set of data-driven recommendations to support business growth, improve customer experience, and optimize operations in the Brazilian market.
 
+## Project Visuals
+
+### Dataset Schema
+![Dataset Schema](images/dataset_schema.PNG)
+
+### Order Growth Trend
+![Order Growth Trend](images/orders_growth_line_chart.png)
+
+### Monthly Seasonality
+![Monthly Seasonality](images/monthly_order_seasonality_chart.png)
+
+### Orders by Time of Day
+![Orders by Time of Day](images/orders_by_time_of_day_chart.png)
+
+### Orders by Payment Type
+![Orders by Payment Type](images/orders_by_payment_type_chart.png)
+
+### Customer Distribution by State
+![Customer Distribution by State](images/customer_distribution_by_state_chart.png)
+
+### Delivery Time Analysis
+![Delivery Time Analysis](images/delivery_time_analysis.png)
+
+### Delivery Time by State
+![Delivery Time by State](images/delivery_time_by_state_chart.png)
+
+### Fast Delivery States
+![Fast Delivery States](images/fast_delivery_states.png)
+
+### Freight Value by State
+![Freight Value by State](images/freight_value_by_state_chart.png)
+
+### Orders Time Range
+![Orders Time Range](images/orders_time_range.png)
+
 Business Problem
 Target wants to assess the performance of its e-commerce business in Brazil and determine what actions should be taken to:
 •	increase order volume
