@@ -58,6 +58,8 @@ Target wants to assess the performance of its e-commerce business in Brazil and 
 This project answers those questions through SQL-based analysis of transactional e-commerce data.
 
 Dataset
+The dataset used in this project was provided by SCALER for my Data Science and Machine Learning with specialization in AI program use.
+Source: Google Drive folder - https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCnb
 The project uses a relational e-commerce dataset containing approximately 100,000 orders from Brazil.
 Main tables used
 •	customers
