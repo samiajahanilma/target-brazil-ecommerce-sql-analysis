@@ -151,6 +151,7 @@ Advanced SQL techniques were used to analyze: - monthly order trends and seasona
 This project reflects practical DBMS concepts such as: - understanding normalized relational data - working with linked business tables - using keys to combine transactional records - querying structured data at scale in BigQuery - converting raw database records into business intelligence
 
 ## Key Findings:
+See the full document here: `Documentation/Findings_and_Recommendations.pdf`
 
 •	The dataset covers Target’s Brazil e-commerce activity from September 2016 to October 2018.
 •	Customers placed orders from 4,000+ cities across 27 states, showing strong national coverage.
@@ -164,6 +165,7 @@ This project reflects practical DBMS concepts such as: - understanding normalize
 •	Credit card was the most commonly used payment method, especially because of installment-based purchasing behavior.
 
 ## Recommendations:
+See the full document here: `Documentation/Findings_and_Recommendations.pdf`
 
 1. Prioritize high-potential markets
 Increase marketing, fulfillment, and logistics investments in: - Sao Paulo - Rio de Janeiro - Minas Gerais
