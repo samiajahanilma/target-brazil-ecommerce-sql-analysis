@@ -1,6 +1,7 @@
 Target Brazil E-Commerce SQL Business Case Analysis
 
-Project Overview
+Project Overview :
+
 This project presents a complete SQL business case analysis of Target’s e-commerce operations in Brazil using Google BigQuery. The dataset contains approximately 100,000 orders placed between 2016 and 2018, along with customer, payment, freight, seller, product, and delivery-related information.
 The goal of this project is to analyze operational and commercial performance across multiple business dimensions and convert raw transactional data into strategic insights.
 This analysis focuses on:
@@ -47,7 +48,8 @@ The final outcome is a set of data-driven recommendations to support business gr
 ### Orders Time Range
 ![Orders Time Range](images/orders_time_range.png)
 
-Business Problem
+Business Problem:
+
 Target wants to assess the performance of its e-commerce business in Brazil and determine what actions should be taken to:
 •	increase order volume
 •	improve revenue generation
@@ -57,7 +59,8 @@ Target wants to assess the performance of its e-commerce business in Brazil and 
 •	support strategic expansion in high-potential markets
 This project answers those questions through SQL-based analysis of transactional e-commerce data.
 
-Dataset
+Dataset:
+
 The dataset used in this project was provided by SCALER for my Data Science and Machine Learning with specialization in AI program use.
 Source: Google Drive folder - https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCnb
 The project uses a relational e-commerce dataset containing approximately 100,000 orders from Brazil.
@@ -82,7 +85,8 @@ Time period covered
 September 2016 to October 2018
 The dataset follows a relational schema with multiple linked tables connected through primary and foreign keys.
 
-Tools & Technologies
+Tools & Technologies:
+
 •	SQL
 •	Google BigQuery
 •	BigQuery INFORMATION_SCHEMA
@@ -107,7 +111,8 @@ This project demonstrates both foundational and advanced SQL concepts, including
 •	relational schema understanding
 It also reflects practical DBMS knowledge through work with normalized transactional data and interconnected business entities.
 
-Analysis & Queries
+Analysis & Queries:
+
 1. Data Exploration
 Initial exploration was performed to understand the structure and scope of the dataset.
 Tasks included: - checking data types using INFORMATION_SCHEMA - finding the order date range - counting unique customer cities and states
@@ -145,7 +150,7 @@ Advanced SQL techniques were used to analyze: - monthly order trends and seasona
 10. DBMS Concepts
 This project reflects practical DBMS concepts such as: - understanding normalized relational data - working with linked business tables - using keys to combine transactional records - querying structured data at scale in BigQuery - converting raw database records into business intelligence
 
-Key Findings
+Key Findings:
 
 •	The dataset covers Target’s Brazil e-commerce activity from September 2016 to October 2018.
 •	Customers placed orders from 4,000+ cities across 27 states, showing strong national coverage.
@@ -158,7 +163,8 @@ Key Findings
 •	Some states consistently received deliveries earlier than the estimated delivery date, indicating stronger fulfillment performance.
 •	Credit card was the most commonly used payment method, especially because of installment-based purchasing behavior.
 
-Recommendations
+Recommendations:
+
 1. Prioritize high-potential markets
 Increase marketing, fulfillment, and logistics investments in: - Sao Paulo - Rio de Janeiro - Minas Gerais
 These regions contribute the highest demand and revenue.
@@ -177,7 +183,8 @@ Provide clearer order status updates and delivery timelines to improve trust and
 8. Continue data-driven monitoring
 Regularly analyze orders, revenue, logistics, payments, and customer behavior to guide future business decisions.
 
-Why This Project Stands Out
+Why This Project Stands Out:
+
 This project is portfolio-ready because it demonstrates:
 •	end-to-end business case analysis using SQL
 •	practical use of BigQuery for analytical querying
@@ -185,19 +192,22 @@ This project is portfolio-ready because it demonstrates:
 •	ability to translate data into strategic recommendations
 •	a balance of technical SQL skills and business problem-solving
 
-How to Use This Project
+How to Use This Project:
+
 1.	Upload or access the dataset in Google BigQuery
 2.	Open the SQL script inside the sql/ folder
 3.	Update dataset/table references if needed
 4.	Run the queries in BigQuery to reproduce the analysis
 5.	Review the visual outputs in images/ and the full report in docs/
-Notes
+   
+Notes:
 •	SQL syntax is written for BigQuery
 •	Delivery analysis uses valid delivered orders only
 
-Author
+Author:
+
 Samia Jahan Ilma
-Aspiring Data Analyst | Data Scientist | ML Enthusiast
+Data Analytics | Data Scientist | ML | AI
 •	GitHub: samiajahanilma
 •	LinkedIn: Samia Jahan Ilma
 
